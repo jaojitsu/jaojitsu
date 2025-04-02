@@ -1,8 +1,8 @@
-## Hello, world! I'm João Severo, a programmer passionate about technology, a Jiu-Jitsu enthusiast, and I enjoy playing a bit of poker in my free time!🌎👋
+##João Severo🥷
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Hello, World! I'm João Severo, a tech enthusiast with a passion for everything AI. I studied Software Development at COTUCA, and now I'm diving deep into Artificial Intelligence at FIAP. When I'm not coding, you can find me on the mats training Jiu-Jitsu, playing some poker, or enjoying a good video game! 🚀🔥
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
