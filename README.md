@@ -5,9 +5,9 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Larissa Albuquerque
- 👩🏻‍💻 Sou uma desenvolvedora fullstack, criativa e apaixonada por tecnologia.<br>
- ⚡ Formada em SI na UNICAP<br>
- 👩‍🎓 Mestranda em ciências da computação no CIn-UFPE<br>
+ 👩🏻‍💻 I'm a Python developer, creative and passionate about machine learning<br>
+ ⚡ Graduated in Systems Development at COTUCA<br>
+ 📖 Currently studying Artificial Intelligence at FIAP<br>
 </div>
 
 <div align="center">
