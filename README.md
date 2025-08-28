@@ -14,7 +14,7 @@
   <a href="https://github.com/joaojitsu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaojitsu&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaojitsu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=jaojitsu&repo=Challenge_Hermes_Reply)](https://github.com/jaojitsu/Challenge_Hermes_Reply)"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=jaojitsu&repo=Farmtech)](https://github.com/jaojitsu/Farmtech)"/>
 </div>
 
 
